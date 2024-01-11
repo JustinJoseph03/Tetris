@@ -9,7 +9,7 @@ import random
 # - draw_window
 # - rotating shape in main
 # - setting up the main
-
+#hi
 
 """
 10 x 20 square grid
